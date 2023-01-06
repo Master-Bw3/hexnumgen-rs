@@ -14,5 +14,4 @@ name = "hexnumgen_cli"
 itertools = "0.10.5"
 strum = { version = "0.24.1", features = ["derive"] }
 thiserror = "1.0"
-pyo3 = { version = "0.17.3", features = ["extension-module"] }
 clap = { version = "4.0.32", features = ["derive"] }
